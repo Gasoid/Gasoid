@@ -1,4 +1,11 @@
 ### Hi there 👋
+### My main projects:
+#### 📷 photoDumper
+repo: https://github.com/Gasoid/photoDumper
+THe tool downloads personal photos of VK albums. You can add your own source photos, you have to implement interfaces: check file sources/sources.go
+
+#### 🤖 regular-go-bot https://github.com/Gasoid/regular-go-bot
+The telegram bot is for fun. You can easy add your own commands: just write a function as handler: check file command_handlers.go
 
 <!--
 **Gasoid/Gasoid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
